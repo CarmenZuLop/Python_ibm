@@ -25,4 +25,9 @@ git branch -M main
 git push -u origin main
 
 
-master
+CREAR RAMA EN VISUAL:
+Parte de conexiones > 3 puntito de arriba > branch > create branch
+
+QUITAR RAMA
+1. Desactivarla -> Parte de conexiones > 3 puntito de arriba > check out
+2. Eliminarla -> Parte de conexiones > 3 puntito de arriba > branch > delete branch
